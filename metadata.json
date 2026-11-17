@@ -1,0 +1,6 @@
+{
+  "name": "Record GYM - Contabilidad",
+  "description": "Sistema de gestión contable para Record GYM con registro de suscripciones, ventas de productos, compras, gastos, reportes mensuales y sincronización con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
